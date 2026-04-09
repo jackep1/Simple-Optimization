@@ -1,0 +1,17 @@
+Jonathan Pincince
+  382  mkdir tdir; cd tdir
+  383  pwd
+  384  pwd > path.txt
+  385  more path.txt
+  386  pr path.txt
+  387  man more
+  388  touch temp.txt
+  389  ls -la
+  390  rm temp.txt
+  391  cd tdir
+  392  nano temp.txt
+  393  history
+  394  pwd
+  395  cd ..
+  396  cd tdir
+  397  history > history.txt
